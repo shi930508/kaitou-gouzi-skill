@@ -35,8 +35,8 @@ npx skills add shi930508/kaitou-gouzi-skill
 
 ### Claude 网页版 / App
 
-1. 在本仓库的 Releases 页面下载 `kaitou-gouzi.zip`
-2. 在 Claude 的技能设置里上传这个文件
+1. 下载安装包：[dist/kaitou-gouzi.zip](https://github.com/shi930508/kaitou-gouzi-skill/raw/main/dist/kaitou-gouzi.zip)
+2. 在 Claude 的技能设置里上传这个文件，不用解压
 
 ## 怎么用
 
