@@ -1,0 +1,21 @@
+{
+  "name": "kaitou-gouzi-skill",
+  "owner": {
+    "name": "shi930508"
+  },
+  "metadata": {
+    "description": "短视频开头钩子写作 Skill",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kaitou-gouzi",
+      "description": "短视频开头钩子（前 2–6 秒 hook）写作、诊断改写和对标拆解，按口播+屏幕文字+画面+音频四件套出稿",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/kaitou-gouzi"
+      ]
+    }
+  ]
+}
